@@ -3,6 +3,6 @@ import { render } from 'react-dom';
 
 render((
     <h1>
-        liteapp
+        quickapp
     </h1>
 ), document.body.appendChild(document.createElement('div')));
